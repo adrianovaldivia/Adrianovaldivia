@@ -25,30 +25,16 @@
 * 🧠 Inteligencia Artificial / Modelos Generativos (GANs, Difusión)
 * 📊 Computación Numérica y Optimización
 * ⚕️ Procesamiento de Imágenes Médicas (DICOM, segmentación)
-
----
-
-## 📊 Estadísticas de GitHub
-
-Aquí puedes ver un resumen de mi actividad en la plataforma:
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 ---
 
 ## 📁 Proyectos Destacados
 
-### 💀 1. Radiología Generativa (En Desarrollo)
-> **Descripción:** Un proyecto enfocado en la generación y aumento de datos de imágenes radiológicas utilizando modelos generativos para ayudar en el diagnóstico médico.
-> 
-> * **Tecnologías:** Python, PyTorch/TensorFlow, OpenCV.
-> * [Ver Repositorio ↗️](URL_DE_TU_REPOSITORIO)
 
-### 📝 2. Artículos de mi Blog
+### 📝 1. Artículos de mi Blog
 > Comparto análisis de algoritmos, resolución de problemas de cálculo y reflexiones sobre la vida universitaria.
 > 
-> * [¡Lee mis últimos posts aquí! ↗️](URL_DE_TU_BLOG)
+> * [¡Lee mis últimos posts aquí! ↗️](adrianovaldiviaustua.blogspot.com)
 
 ---
 
@@ -56,8 +42,8 @@ Aquí puedes ver un resumen de mi actividad en la plataforma:
 
 Si quieres charlar sobre computación científica, inteligencia artificial o proyectos colaborativos, no dudes en contactarme:
 
-* **Blog:** [Visita mi sitio web](URL_DE_TU_BLOG)
-* **LinkedIn:** [@TuUsuario](URL_DE_TU_LINKEDIN)
+* **Blog:** [Visita mi sitio web](adrianovaldiviaustua.blogspot.com)
+* **LinkedIn:** [@adrianovaldiviaustua](www.linkedin.com/in/adrianovaldiviaustua)
 * **Correo electrónico:** `cesarordi10@gmail.com`
 
 ---
