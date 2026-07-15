@@ -24,7 +24,7 @@
 ### Áreas de Interés
 * 🧠 Inteligencia Artificial / Modelos Generativos (GANs, Difusión)
 * 📊 Computación Numérica y Optimización
-* ⚕️ Procesamiento de Imágenes Médicas (DICOM, segmentación)
+* ⚕️ La ciencia biologica (ADN,Analizador de mutaciones)
   
 ---
 
