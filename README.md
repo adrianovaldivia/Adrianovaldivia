@@ -30,13 +30,8 @@
 
 ## 📁 Proyectos Destacados
 
-
-### 📝 1. Artículos de mi Blog
-> Comparto análisis de algoritmos, resolución de problemas de cálculo y reflexiones sobre la vida universitaria.
-> 
-> * [¡Lee mis últimos posts aquí! ↗️](adrianovaldiviaustua.blogspot.com)
-
----
+* Ejercicios sobre el coloreado de grafos
+* Un analizador de mutaciones en el ADN
 
 ## 📫 Conéctanos
 
